@@ -32,5 +32,7 @@ This will scan the image and output the matched stars and their positions.
 
 This will compare the two images and output the matched stars and their positions.
 
+### Output
+All the reuslt are shown in the outputs folders csv files etc...
 ### Conclusion
-This algorithm provides an easy and effective way to match stars between two images taken with a cell phone or Stellarium. By using openCV and SIFT/ORB matching algorithms, it is able to extract the properties of stars and match them between the two images
+This algorithm provides an easy and effective way to match stars between two images taken with a cell phone or Stellarium. By using openCV and SIFT/ORB matching algorithms, it is able to extract the properties of stars and match them between the two images, but we didn't succeed to implment it after many tries.
